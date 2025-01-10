@@ -1,0 +1,9 @@
+# jupyter
+# beautifulsoup4
+# pandas
+# openpyxl
+nltk
+spacy
+textblob
+scikit-learn
+# -e .
