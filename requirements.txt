@@ -1,9 +1,12 @@
-# jupyter
-# beautifulsoup4
-# pandas
-# openpyxl
+jupyter
+beautifulsoup4
+pandas
+openpyxl
 nltk
 spacy
 textblob
 scikit-learn
-# -e .
+matplotlib
+wordcloud
+vaderSentiment
+-e .

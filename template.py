@@ -9,8 +9,9 @@ project_structure = {
     "src": {
         "__init__.py": "",
         "main.py": "",
+        "calculate_metrics.py": "",
         "data_extractor.py": "",
-        "text_analysis.py": "",
+        "text_preprocessing.py": "",
         "utils.py": ""
     },
     "notebooks": {},
