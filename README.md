@@ -23,7 +23,7 @@ pip install -r requirements.txt
 To use the Text Analyzer, run the following command:
 
 ```bash
-python main.py <"...../Desktop/text_analyzer/venv">
+python main.py <"...../Desktop/text_analyzer/src">
 ```
 
 Replace `<path_to_text_file>` with the path to the text file you want to analyze.
